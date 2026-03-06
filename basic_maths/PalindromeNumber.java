@@ -1,7 +1,6 @@
 package basic_maths;
 
 import static java.lang.System.*;
-
 import java.util.Scanner;
 
 public class PalindromeNumber {
@@ -28,3 +27,4 @@ public class PalindromeNumber {
 		sc.close();
 	}
 }
+
