@@ -29,7 +29,7 @@ public class Armstrong {
             temp /= 10;
         }
         return res == originalNum;
- }
+    }
 	
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(in);
@@ -38,3 +38,4 @@ public class Armstrong {
 		sc.close();
 	}
 }
+
